@@ -1,0 +1,46 @@
+2026-01-27 19:21:29,297 - __main__ - INFO - Starting NASA Image Analyzer
+2026-01-27 19:21:29,301 - __main__ - INFO - Fetching images from NASA archive...
+2026-01-27 19:21:29,301 - nasa_analyzer - INFO - Fetching images from NASA API...
+2026-01-27 19:21:29,302 - nasa_api_client - INFO - Fetching 100 APOD images from NASA API
+2026-01-27 19:22:25,383 - __main__ - INFO - Starting NASA Image Analyzer
+2026-01-27 19:22:25,423 - __main__ - INFO - Fetching images from NASA archive...
+2026-01-27 19:22:25,440 - nasa_analyzer - INFO - Fetching images from NASA API...
+2026-01-27 19:22:25,443 - nasa_api_client - INFO - Fetching 10 APOD images from NASA API
+2026-01-27 19:22:28,540 - nasa_api_client - INFO - Retrieved 10 image entries from APOD
+2026-01-27 19:22:28,541 - nasa_analyzer - INFO - Successfully fetched 10 images from APOD
+2026-01-27 19:22:28,542 - __main__ - INFO - Analyzing images...
+2026-01-27 19:22:28,543 - nasa_analyzer - INFO - Analyzing 10 images...
+2026-01-27 19:22:28,544 - nasa_analyzer - INFO - Analyzing image 1/10
+2026-01-27 19:22:32,548 - nasa_analyzer - INFO - Analyzing image 2/10
+2026-01-27 19:22:36,725 - nasa_analyzer - INFO - Analyzing image 3/10
+2026-01-27 19:22:41,105 - nasa_analyzer - INFO - Analyzing image 4/10
+2026-01-27 19:22:45,062 - nasa_analyzer - INFO - Analyzing image 5/10
+2026-01-27 19:22:49,984 - nasa_analyzer - INFO - Analyzing image 6/10
+2026-01-27 19:22:57,257 - nasa_analyzer - INFO - Analyzing image 7/10
+2026-01-27 19:23:00,956 - nasa_analyzer - INFO - Analyzing image 8/10
+2026-01-27 19:23:05,664 - nasa_analyzer - INFO - Analyzing image 9/10
+2026-01-27 19:23:10,451 - nasa_analyzer - INFO - Analyzing image 10/10
+2026-01-27 19:24:46,701 - __main__ - INFO - Starting NASA Image Analyzer
+2026-01-27 19:24:46,705 - __main__ - INFO - Fetching images from NASA archive...
+2026-01-27 19:24:46,706 - nasa_analyzer - INFO - Fetching images from NASA API...
+2026-01-27 19:24:46,706 - nasa_api_client - INFO - Fetching 10 APOD images from NASA API
+2026-01-27 19:24:50,059 - nasa_api_client - INFO - Retrieved 10 image entries from APOD
+2026-01-27 19:24:50,060 - nasa_analyzer - INFO - Successfully fetched 10 images from APOD
+2026-01-27 19:24:50,062 - __main__ - INFO - Analyzing images...
+2026-01-27 19:24:50,063 - nasa_analyzer - INFO - Analyzing 10 images...
+2026-01-27 19:24:50,064 - nasa_analyzer - INFO - Analyzing image 1/10
+2026-01-27 19:24:53,791 - nasa_analyzer - INFO - Analyzing image 2/10
+2026-01-27 19:25:04,163 - nasa_analyzer - INFO - Analyzing image 3/10
+2026-01-27 19:25:07,968 - nasa_analyzer - INFO - Analyzing image 4/10
+2026-01-27 19:25:10,178 - nasa_analyzer - INFO - Analyzing image 5/10
+2026-01-27 19:25:12,792 - nasa_analyzer - INFO - Analyzing image 6/10
+2026-01-27 19:25:15,662 - nasa_analyzer - INFO - Analyzing image 7/10
+2026-01-27 19:25:18,230 - nasa_analyzer - INFO - Analyzing image 8/10
+2026-01-27 19:25:23,821 - nasa_analyzer - INFO - Analyzing image 9/10
+2026-01-27 19:25:26,013 - nasa_analyzer - INFO - Analyzing image 10/10
+2026-01-27 19:25:29,919 - nasa_analyzer - INFO - Completed analysis of 10 images
+2026-01-27 19:25:29,929 - __main__ - INFO - Exporting data to CSV...
+2026-01-27 19:25:29,931 - nasa_analyzer - INFO - Exporting 10 results to CSV...
+2026-01-27 19:25:29,958 - data_processor - INFO - Prepared 10 records for CSV export
+2026-01-27 19:25:29,996 - nasa_analyzer - INFO - Data exported successfully to output\nasa_image_data.csv
+2026-01-27 19:25:30,062 - __main__ - INFO - Analysis complete! Data saved to output\nasa_image_data.csv
